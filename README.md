@@ -4,6 +4,7 @@ This is a simple and fun terminal-based number guessing game written in the C pr
 The game also tracks the number of attempts made and displays the total once the correct number is guessed.
 
 ✅ Features
+
 1.Random number generation using srand() and rand()
 
 2.Interactive user input with hints
